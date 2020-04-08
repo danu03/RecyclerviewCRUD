@@ -4,6 +4,7 @@ import android.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.custom_dialog.view.*
 
@@ -83,7 +84,7 @@ class MainActivity : AppCompatActivity() {
 //            adapter.notifyDataSetChanged()
             showAddDialog()
         }
-        rv_note.layoutManager = GridLayoutManager(this, 2)
+        rv_note.layoutManager = LinearLayoutManager(this)
         rv_note.setHasFixedSize(true)
         rv_note.adapter = adapter
 

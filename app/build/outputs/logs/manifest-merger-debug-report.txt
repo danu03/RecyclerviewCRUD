@@ -43,7 +43,7 @@ INJECTED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:2
 INJECTED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:3:5-37
+		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -80,10 +80,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Da
 		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.binar.recyclerview.MainActivity
+activity#com.danusuhendra.recyclerview.MainActivity
 ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:12:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\Binar\BINAR\CP6\RecyclerView\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
